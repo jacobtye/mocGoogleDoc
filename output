@@ -1,0 +1,47 @@
+nohup: ignoring input
+Listening on port: 3003
+(node:16759) DeprecationWarning: current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+[0mGET / [36m304 [0m5.147 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.901 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.427 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.258 ms - -[0m
+in post
+{}
+{ _id: 5df0bfefee4bf64177d16bdb,
+  userName: 'all',
+  fileName: 'README.txt',
+  contents:
+   'This is a Simple document editor that saves text to a mongoosedatabase attached to a specific user. Authentication is done viafirebase authentication.\nTo use, simply type in the textbox and use the buttons above as youwould in wordPad. Save overwirtes the current file, Save As saves toa new name, load opens a file, delete will remove a file from thedatabase and new file clears everything.' }
+[0mGET /getREADME [32m200 [0m6.205 ms - 481[0m
+[0mGET /footer.html [36m304 [0m0.350 ms - -[0m
+in post
+{}
+{ _id: 5df0bfefee4bf64177d16bdb,
+  userName: 'all',
+  fileName: 'README.txt',
+  contents:
+   'This is a Simple document editor that saves text to a mongoosedatabase attached to a specific user. Authentication is done viafirebase authentication.\nTo use, simply type in the textbox and use the buttons above as youwould in wordPad. Save overwirtes the current file, Save As saves toa new name, load opens a file, delete will remove a file from thedatabase and new file clears everything.' }
+[0mGET /getREADME [36m304 [0m1.077 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m2.305 ms - 1464[0m
+[0mGET / [36m304 [0m0.689 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.553 ms - -[0m
+[0mGET /images/icon.png [36m304 [0m0.358 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.339 ms - -[0m
+in post
+{}
+{ _id: 5df0bfefee4bf64177d16bdb,
+  userName: 'all',
+  fileName: 'README.txt',
+  contents:
+   'This is a Simple document editor that saves text to a mongoosedatabase attached to a specific user. Authentication is done viafirebase authentication.\nTo use, simply type in the textbox and use the buttons above as youwould in wordPad. Save overwirtes the current file, Save As saves toa new name, load opens a file, delete will remove a file from thedatabase and new file clears everything.' }
+[0mGET /getREADME [36m304 [0m1.738 ms - -[0m
+[0mGET /footer.html [36m304 [0m0.342 ms - -[0m
+in post
+{}
+{ _id: 5df0bfefee4bf64177d16bdb,
+  userName: 'all',
+  fileName: 'README.txt',
+  contents:
+   'This is a Simple document editor that saves text to a mongoosedatabase attached to a specific user. Authentication is done viafirebase authentication.\nTo use, simply type in the textbox and use the buttons above as youwould in wordPad. Save overwirtes the current file, Save As saves toa new name, load opens a file, delete will remove a file from thedatabase and new file clears everything.' }
+[0mGET /getREADME [36m304 [0m1.008 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m0.744 ms - 1464[0m
